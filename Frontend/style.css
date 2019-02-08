@@ -113,3 +113,11 @@ h3.archives span {
 	padding: 10px;
 	color: #FFFFFF;
 }
+
+#form {
+	margin-right: 10px;
+	font-size: 10px;
+  	text-align: center;
+  	cursor: pointer;
+  	outline: none;
+}
