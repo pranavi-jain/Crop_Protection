@@ -38,7 +38,7 @@ p { margin: 0 0 10px; }
 	border-radius: 10px;
 }
 #pageHeader button:hover {background-color: blue; color: white;}
-#pageHeader button :active {background-color: blue; color: white;}
+#pageHeader button:active {background-color: blue; color: white;}
 
 
 #preamble {
@@ -66,7 +66,7 @@ p { margin: 0 0 10px; }
 	background-color: #DFE3C6;
 	padding-top: 20px;
 }
-#supportingText p { margin: 0 20px 15px 20px; }
+#supportingText p { margin: 0 20px 15px 20px;}
 
 #explanation h3 { height: 30px; margin: 0; padding: 0; }
 #explanation h3 span { margin: 0; padding: 20px; }
