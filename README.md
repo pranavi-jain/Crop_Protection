@@ -1,6 +1,6 @@
 # Crop Protection
 
-# Theme - Healtcare
+
 
 # About the Idea
 Our farmers work hard all day long over the year to yield a healthy batch of crop which brings about enormous benefit to them as well as the economy at large. However, diseases and pests take a heavy toll on agricultural crops causing severe loss to the farming community including the market. This can be overcome with the help of an efficient disease detection system for crop protection.
@@ -11,6 +11,6 @@ Using image processing and data on crop diseases, pests, etc. as identified and 
 
 Certain key features outlining the project are:
 - A friendly easy-to-use portal for farmers
-- Easy implementation through smart phones
+- Easy implementation through smart phone
 - Judicial use of pesticides
 - A huge save for both the farmers and the economy
