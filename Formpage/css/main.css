@@ -144,28 +144,34 @@ iframe {
   justify-content: center;
   align-items: center;
   padding: 15px;
-  background: rgba(255,255,255,0.8);
+  background: rgba(255,255,255,0);/*Edited*/
   
 }
 
 .wrap-contact3 {
   width: 500px;
   background: #80c64a;
-  background: -webkit-linear-gradient(45deg, #56ab2f, #a8e063);
+  /*background: -webkit-linear-gradient(45deg, #56ab2f, #a8e063);
   background: -o-linear-gradient(45deg, #56ab2f, #a8e063);
   background: -moz-linear-gradient(45deg, #56ab2f, #a8e063);
-  background: linear-gradient(45deg, #56ab2f, #a8e063);
+  background: linear-gradient(45deg, #56ab2f, #a8e063);*/
+  background: rgba(204,204,0,0.4);/*Edited*/
   border-radius: 10px;
   overflow: hidden;
   padding: 72px 55px 65px 55px;
 }
-
+.wrap-contact3:hover{
+  border-radius: 20px;
+  transition: 0.5s;
+  background: rgba(204,204,0,0.8);
+}
 
 /*------------------------------------------------------------------
 [  ]*/
 
 .contact3-form {
   width: 100%;
+	
 }
 
 .contact3-form-title {
@@ -198,9 +204,11 @@ iframe {
   font-family: Poppins-Regular;
   font-size: 15px;
   color: #fff;
+  
   line-height: 1.2;
   padding: 0 5px;
 }
+
 
 .focus-input3 {
   position: absolute;
